@@ -9,7 +9,6 @@ import logotext from './logo/logo-text-black.png';
 import shaq from './personal/shaq.png';
 
 import backend from './icons/backend.png';
-import ux from './icons/ux.png';
 import frontend from './icons/frontend.png';
 import prototyping from './icons/prototyping.png';
 import github from './icons/github.png';
@@ -34,14 +33,14 @@ import reactjs from './tech/reactjs.png';
 import redux from './tech/redux.png';
 import tailwind from './tech/tailwind.png';
 import typescript from './tech/typescript.png';
+import sqlite from './tech/sqlite.png';
 import graphql from './tech/graphql.png';
 import postgresql from './tech/postgresql.png';
 import rubyrails from './tech/rubyrails.png';
 
-import coverhunt from './company/coverhunt.png';
-import dcc from './company/dcc.png';
-import kelhel from './company/kelhel.png';
-import microverse from './company/microverse.png';
+import madwire from './company/madwire.png';
+import radial from './company/radial.png';
+import switchbox from './company/switchbox.ico';
 
 import komikult from './projects/komikult.png';
 import leaderboard from './projects/leaderboard.png';
@@ -59,7 +58,6 @@ export {
   logotext,
   shaq,
   backend,
-  ux,
   frontend,
   prototyping,
   github,
@@ -76,6 +74,7 @@ export {
   docker,
   figma,
   git,
+  sqlite,
   graphql,
   html,
   javascript,
@@ -92,8 +91,7 @@ export {
   movie,
   nyeusi,
   space,
-  coverhunt,
-  dcc,
-  kelhel,
-  microverse,
+  madwire,
+  radial,
+  switchbox,
 };
