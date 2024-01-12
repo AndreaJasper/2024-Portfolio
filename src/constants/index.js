@@ -32,6 +32,10 @@ export const navLinks = [
     title: 'Projects',
   },
   {
+    id: 'work',
+    title: 'Experience',
+  },
+  {
     id: 'contact',
     title: 'Contact',
   },
@@ -51,7 +55,7 @@ const services = [
     icon: backend,
   },
   {
-    title: 'Software Prototyping',
+    title: 'Project Management',
     icon: prototyping,
   },
 ];
